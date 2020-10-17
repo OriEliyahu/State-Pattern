@@ -1,0 +1,13 @@
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.exe
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.deps.json
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.runtimeconfig.json
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.runtimeconfig.dev.json
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.dll
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.pdb
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.csprojAssemblyReference.cache
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.AssemblyInfoInputs.cache
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.AssemblyInfo.cs
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.csproj.CoreCompileInputs.cache
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.dll
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.pdb
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.genruntimeconfig.cache
